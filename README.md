@@ -44,7 +44,7 @@
 - Optimized for scalability to manage multiple farm profiles and track various metrics seamlessly.
 
 ## 📫 How to Reach Me
-You can reach me at [priyadharshini.official@gmail.com](mailto:priyadharshini.official@gmail.com)
+You can reach me at [priyadharshinifficial2002@gmail.com](mailto:priyadharshiniofficial2002@gmail.com)
 
 ## 💡 Future Goals
 - Expanding the **Smart Agro System** to integrate **IoT** for automated farm management.
